@@ -79,7 +79,8 @@ class _RegisterScreenState extends State<RegisterScreen> {
 
   Future<void> _pickResume() async {
     FilePickerResult? result = await FilePicker.platform.pickFiles(
-      type: FileType.custom, allowedExtensions: ['pdf', 'doc', 'docx'],
+      type: FileType.custom,
+      allowedExtensions: ['pdf', 'doc', 'docx'],
     );
     if (result != null) {
       setState(() {

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718006320227",
+    "project_id": "govjob-portal-c77ee",
+    "storage_bucket": "govjob-portal-c77ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718006320227:android:ab0d5a29e22c54482c8c56",
+        "android_client_info": {
+          "package_name": "com.example.jobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718006320227-2der455mrmaaljtv031o1c3dq82rahd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobportal",
+            "certificate_hash": "c105b24a97f7ed31211ab117e7f43169b4728085"
+          }
+        },
+        {
+          "client_id": "718006320227-rbl68smelp6p4j86epfcdpjil7445tk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVaZW8ubNZH93FB4RihTcNjjUDuNJm_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718006320227-rbl68smelp6p4j86epfcdpjil7445tk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
